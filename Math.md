@@ -1,4 +1,4 @@
-# % и // в [python](https://pythonworld.ru/samouchitel-python) 
+# % и // в [python](https://pythonworld.ru/samouchitel-python) ![Alt](Python-logo-notext.svg.png)
 ## определение
 // - выводит ответ без дроби, откидывая ее
 % - выводит остаток от деления
@@ -48,8 +48,8 @@ Print(a // b)
 
 a % b =
 
-
+$$
 0, 1, 2, ...b-1
 %8 = 8 = 8/0
 0 < или = a % b < b
-
+$$
